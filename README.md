@@ -11,6 +11,5 @@ https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
 
 
 Contributors:
-Raul E. Negron Sabo
 Raul Alexis Cuevas Lizardi
 
