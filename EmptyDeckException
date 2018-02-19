@@ -1,0 +1,12 @@
+package onlinePoker;
+
+@SuppressWarnings("serial")
+public class EmptyDeckException extends Exception {
+	public EmptyDeckException() {
+		super("The deck is empty.");
+	}
+
+	public EmptyDeckException(String msg) {
+		super(msg);
+	}
+}
